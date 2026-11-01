@@ -1,0 +1,13 @@
+config/streams.json
+config/direct-mp3-cache.json
+config/any-radio.log
+config/ffmpeg-error.log
+config/streams-export.json
+config/ffmpeg-path.txt
+vlc.exe
+*.log
+*.log.1
+*.tmp
+*.bak1
+*.bak2
+*.bak3
