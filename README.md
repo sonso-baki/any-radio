@@ -293,6 +293,12 @@ Sonso Baki
 
 [Поддержать проект](https://yoomoney.ru/to/4100169388136)
 
+## Примечания
+
+any-radio использует VLC и FFmpeg как внешние программы. Они не входят в состав проекта и не распространяются вместе с ним — при необходимости устанавливаются отдельно. Лицензии VLC и FFmpeg на any-radio не распространяются.
+
+Euro Truck Simulator 2 и American Truck Simulator являются товарными знаками SCS Software. Проект не связан со SCS Software и не одобрен ею.
+
 ## Лицензия
 
 MIT. См. [LICENSE](LICENSE).
