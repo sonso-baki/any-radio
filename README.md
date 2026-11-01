@@ -268,7 +268,7 @@ ATS и ETS2 не понимают часть форматов интернет-�
 - `FFmpeg found but without libmp3lame` — установлена essentials-сборка. Требуется full-сборка с https://www.gyan.dev/ffmpeg/builds/.
 - `Port X is busy` — порт занят (обычно VLC/FFmpeg от прошлого запуска). Стоит закрыть процесс или сменить порт.
 - `American Truck Simulator not found` / `Euro Truck Simulator 2 not found` — игра не найдена в Steam-библиотеках.
-- `config/streams.json is corrupted` — файл конфига битый. Восстанови из резервной копии или удали (создастся дефолт).
+- `config/streams.json is corrupted` — 	файл конфига повреждён. Восстановление из резервной копии или удаление файла (создаётся дефолтный).
 - `common.ps1 not found` — требуется распаковать архив заново.
 - Радио пропало в игре, но `live_streams.sii` выглядит нормально — стоит проверить, что файл сохранён в UTF-8 (Notepad++ → Кодировки → UTF-8).
 - Тишина в режиме FFmpeg — проверяется `config\ffmpeg-error.log`. Частая причина: нет `libmp3lame` (нужна full-сборка).
